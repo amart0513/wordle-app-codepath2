@@ -1,1 +1,0 @@
-# wordle-app-codepath2
