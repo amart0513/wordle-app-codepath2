@@ -1,8 +1,12 @@
-# Project 2 - *Name of App Here*
+# Wordle Pt. 2 Starter
+
+This is the starter project for iOS 101 Project 2 - Wordle Pt. 2
 
 Submitted by: **Angie Martinez**
 
-**Wordle Pt. 2** is an app that ... [TODO] 
+**Wordle Pt. 2** is an app that allows the user to enter the word of the day. The user has 6 tries until 
+they run out of spaces to fill in. However, if the user manages to get the word correct before all 6 spots
+fill up, they completed the task in x amount of tries. Now, the app has various features such as changing the theme of the world and it even includes the 'alien wordle' theme (where the word changes if the user guesses the wrong word).
 
 Time spent: **12** hours spent in total
 
@@ -22,13 +26,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [X] List anything else that you can get done to improve the app functionality!
+- [X] No additional features were implemented, app is fully functional!
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a video for Wordle Pt. 2! (TBA)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Project Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
@@ -36,7 +40,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
