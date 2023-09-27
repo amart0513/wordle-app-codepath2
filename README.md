@@ -30,13 +30,20 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a video for Wordle Pt. 2! (TBA)
+Here is a video for Wordle Pt. 2!
 
-[Project Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[Project Guide] <div>
+    <a href="https://www.loom.com/share/24e6d4d94df840b29733aa96f2a096d7">
+      <p>Wordle Pt. 2 Starter Project - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/24e6d4d94df840b29733aa96f2a096d7">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/24e6d4d94df840b29733aa96f2a096d7-with-play.gif">
+    </a>
+  </div>
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The challenging part was getting used to the if-let logic within Xcode and determining how to implement the dictionaries for the strings. Another challenge was understanding the closures since they were 
 
 ## License
 
