@@ -6,7 +6,7 @@ Submitted by: **Angie Martinez**
 
 **Wordle Pt. 2** is an app that allows the user to enter the word of the day. The user has 6 tries until 
 they run out of spaces to fill in. However, if the user manages to get the word correct before all 6 spots
-fill up, they completed the task in x amount of tries. Now, the app has various features such as changing the theme of the world and it even includes the 'alien wordle' theme (where the word changes if the user guesses the wrong word).
+fill up, they completed the task in x amount of tries. Now, the app has various features such as changing the theme of the world and it even includes the 'alien wordle' theme (where the word changes if the user guesses the wrong word). This app also includes the 'Reset' and 'Settings' button for the user to change it to their preferences!
 
 Time spent: **12** hours spent in total
 
@@ -43,7 +43,7 @@ Here is a video for Wordle Pt. 2!
 
 ## Notes
 
-The challenging part was getting used to the if-let logic within Xcode and determining how to implement the dictionaries for the strings. Another challenge was understanding the closures since they were 
+The challenging part was getting used to the if-let logic within Xcode and determining how to implement the dictionaries for the strings. Another challenge was understanding the closures since they were still new to fully code them. But, with the use of the Apple Developer Documentation, it started to make more sense and looking at the slides and attending the office hours helped me to complete the second half of the Wordle project!
 
 ## License
 
